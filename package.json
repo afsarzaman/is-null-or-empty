@@ -1,9 +1,9 @@
 {
   "name": "afsar-is-null-or-empty",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cool package to test if null or empty input",
   "main": "index.js",
-  "author": "Afsar Zaman",
+  "author": "Afsar Zaman <afsarzaman@yahoo.com>",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
